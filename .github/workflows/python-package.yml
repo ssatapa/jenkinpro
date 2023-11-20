@@ -52,7 +52,7 @@ jobs:
         uses: docker/build-push-action@v5.1.0
         with:
           push: true
-          tag: subha2591/gfgflaskapp:latest
+          tags: subha2591/gfgflaskapp:latest
       
       
       
