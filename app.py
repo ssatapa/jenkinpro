@@ -8,7 +8,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return quote('Hello, World! This is a simple Flask app by subhalaxmi.')
+        return quote('Hello, Subhalaxmi')
 
     return app
 
